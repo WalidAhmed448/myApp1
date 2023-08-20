@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "name": "waleedAhmed",
+      "mobileNumber": 775269996,
+      "email": "wealid448@gmail.com",
+      "birthdate": "1988-12-31T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Kitsys",
+      "experience": 2,
+      "salary": 800,
+      "id": 1
+    },
+    {
+      "name": "mohammed",
+      "mobileNumber": "770489785",
+      "email": "mohammed4@kitsys.co",
+      "birthdate": "1989-01-05T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Kitsys",
+      "experience": 4,
+      "salary": 800,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "empolyees": [
+    {
+      "id": 1,
+      "name": "",
+      "mobileNumber": "",
+      "email": "",
+      "birthdate": "",
+      "gender": "",
+      "education": "",
+      "company": "",
+      "experience": "",
+      "salary": 1,
+      "action": ""
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
