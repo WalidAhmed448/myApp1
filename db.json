@@ -1,18 +1,6 @@
 {
   "posts": [
     {
-      "name": "waleedAhmed",
-      "mobileNumber": 775269996,
-      "email": "wealid448@gmail.com",
-      "birthdate": "1988-12-31T21:00:00.000Z",
-      "gender": "male",
-      "education": "Graduate",
-      "company": "Kitsys",
-      "experience": 2,
-      "salary": 800,
-      "id": 1
-    },
-    {
       "name": "mohammed",
       "mobileNumber": "770489785",
       "email": "mohammed4@kitsys.co",
@@ -23,6 +11,18 @@
       "experience": 4,
       "salary": 800,
       "id": 2
+    },
+    {
+      "name": "Aseel",
+      "mobileNumber": "775 757 277",
+      "email": "dr_walid2010@hotmail.com",
+      "birthdate": "2023-10-12T21:00:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Kitsys",
+      "experience": 10,
+      "salary": 12,
+      "id": 5
     }
   ],
   "comments": [],

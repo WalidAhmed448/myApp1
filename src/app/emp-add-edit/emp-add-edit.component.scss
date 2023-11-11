@@ -3,7 +3,7 @@
 }
 
 .row {
-    display: flex;
+    display: inline-flex;
     gap: 5px;
 
     mat-form-field {
@@ -13,6 +13,7 @@
 
 .action {
     padding: 0px 25px 20px;
+    display: flex;
 
     button {
         flex: 1;
